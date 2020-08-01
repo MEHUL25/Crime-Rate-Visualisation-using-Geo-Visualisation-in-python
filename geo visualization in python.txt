@@ -1,0 +1,10 @@
+Task 1: Defining Geo-Visualization and the Goal of the Project
+Task 2: Generating basic Maps with Folium
+Task 3: Generating Stamen Toner and Stamen Terrain Maps
+Task 4: Plotting cities in the World Map
+Task 5: Geo-Visualization in Real World
+
+
+
+
+https://coursera.community/artificial-intelligence-ai-64/kickstart-your-journey-at-coursera-ai-data-science-learning-path-7660
